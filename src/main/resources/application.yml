@@ -1,0 +1,8 @@
+spring:
+  datasource:
+  driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  url: jdbc:sqlserver://localhost;databaseName=prova-User
+  username: root
+  password: Andreas.1974
+  jpa.show-sql: true
+
